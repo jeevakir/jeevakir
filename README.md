@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevakir" alt="jeevakir" /></a> </p>
 
-- 🌱 I’m currently learning **3d-modelling (FreeCAD), Linux distribution build, Android Studio**
+- 🌱 I’m currently learning **General Meteorology,3d-modelling (FreeCAD), Linux distribution build**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jeevakir/](https://github.com/jeevakir/)
 
