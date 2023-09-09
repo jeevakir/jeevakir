@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevakir" alt="jeevakir" /></a> </p>
 
-- 🌱 I’m currently learning **General Meteorology,3d-modelling (FreeCAD), Linux distribution build**
+- 🌱 I’m currently learning **General Meteorology,3d-modelling (FreeCAD), Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jeevakir/](https://github.com/jeevakir/)
 
-- 💬 Ask me about **WRF,RegCM models, DSSAT, shell scripts, python scripts for climate data handling.**
+- 💬 Ask me about **DSSAT,WRF,RegCM models, shell scripts, python scripts for climate data handling.**
 
 - 📫 How to reach me **jeevanand0013@gmail.com**
 
