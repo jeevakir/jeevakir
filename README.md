@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeevanand K Palanisamy</h1>
 <h3 align="center">An agrometeorologist and climate change researcher from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevakir&label=Profile%20views&color=0e75b6&style=flat" alt="jeevakir" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevakir" alt="jeevakir" /></a> </p>
 
 - 🌱 I’m currently learning **General Meteorology,3d-modelling (FreeCAD), Machine learning**
